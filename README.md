@@ -125,6 +125,3 @@ I'm an experienced iOS Developer with a proven track record of building robust, 
 ## 📈 Let's Connect!
 
 I'm always open to collaborating on exciting iOS projects or discussing new opportunities in mobile app development. Feel free to reach out!
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/33127930/b6d6d8fd-40ac-4250-8496-116f7f42eb86/CV_Arvind.pdf
