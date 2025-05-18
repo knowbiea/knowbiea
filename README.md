@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **knowbiea/knowbiea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -130,6 +128,3 @@ I'm always open to collaborating on exciting iOS projects or discussing new oppo
 
 Citations:
 [1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/33127930/b6d6d8fd-40ac-4250-8496-116f7f42eb86/CV_Arvind.pdf
-
----
-Answer from Perplexity: pplx.ai/share
