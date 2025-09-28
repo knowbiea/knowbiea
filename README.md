@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👋 Hi, I'm Arvind Nandlal Yadav
+## 👋 Hi, I'm Arvind Yadav
 
 ### 🚀 Experienced iOS Developer | SwiftUI, Swift, Objective-C
 
